@@ -1,1 +1,44 @@
+# Notebooks
+
+This directory contains Jupyter notebooks used to perform the numerical
+calculations and generate figures for the accompanying manuscript:
+
+*Momentum-space gravity from the quantum geometry and entropy of Bloch electrons*  
+Phys. Rev. Research **4**, 013217 (2022)
+
+Each notebook focuses on a specific stage of the analysis and can be run
+independently, though they are logically ordered as described below.
+
+## Notebook Overview
+
+1. **Model TBG Hamiltonian**  
+   Constructs the continuum model Hamiltonian for twisted bilayer graphene,
+   including the moiré potential and symmetry constraints used throughout the
+   paper.
+
+2. **Band Structure Calculation**  
+   Computes the Bloch band structure of the model Hamiltonian along high-symmetry
+   paths in the moiré Brillouin zone and reproduces the band dispersions shown in
+   the manuscript.
+
+3. **Quantum Geometric Tensor Calculations**  
+   Evaluates quantum geometric quantities of the Bloch bands, including the
+   Berry curvature and quantum metric, which form the basis for the geometric
+   and entropic responses discussed in the paper.
+
+4. **Geodesic Response Calculations**  
+   Computes the momentum-space geodesic response derived from the quantum
+   geometry, illustrating the emergence of momentum-space gravitational effects.
+
+## Usage Notes
+
+- The notebooks are written for clarity and reproducibility rather than
+  computational efficiency.
+- Parameters used in the manuscript are indicated explicitly within each
+  notebook.
+
+## Requirements
+
+The notebooks require a standard scientific Python environment (NumPy,
+Matplotlib) and Jupyter.
 
