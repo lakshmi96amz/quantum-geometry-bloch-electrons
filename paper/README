@@ -1,0 +1,22 @@
+# Manuscript
+
+This directory contains the manuscript associated with the numerical codes
+and analysis in this repository.
+
+**Title:**  
+Momentum-space gravity from the quantum geometry and entropy of Bloch electrons
+
+**Journal Reference:**  
+Physical Review Research **4**, 013217 (2022)  
+DOI: 10.1103/PhysRevResearch.4.013217
+
+**Description:**  
+The numerical scripts and Jupyter notebooks provided in this repository
+reproduce the theoretical calculations and figures presented in the manuscript.
+These include computations of Bloch band structures, quantum geometric
+quantities (Berry curvature and quantum metric), and momentum-space gravitational
+responses discussed in the paper.
+
+The notebooks in the `notebooks/` directory implement the models and analysis
+used in the manuscript and can be executed to reproduce the key numerical
+results and figures.
